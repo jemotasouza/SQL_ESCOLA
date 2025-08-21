@@ -1,0 +1,22 @@
+---INSERINDO DADOS MANUALMENTE NA TABELA ALUNOS
+
+INSERT INTO ALUNOS
+VALUES
+(1, 'João Silva', '2005-03-15', 'M', 'Rua das Flores, 123', '1198765432', 'joao@email.com'),
+(2, 'Maria Santos', '2006-06-20', 'F', 'Avenida Principal, 456', '1187654321', 'maria@email.com'),
+(3, 'Pedro Soares', '2004-01-10', 'M', 'Rua Central, 789', '1176543210', 'pedro@email.com'),
+(4, 'Ana Lima', '2005-04-02', 'F', 'Rua da Escola, 56', '1187654321', 'ana@email.com'),
+(5, 'Mariana Fernandes', '2005-08-12', 'F', 'Avenida da Paz, 789', '1156781234', 'mariana@email.com'),
+(6, 'Lucas Costa', '2003-11-25', 'M', 'Rua Principal, 456', '1112345678', 'lucas@email.com'),
+(7, 'Isabela Santos', '2006-09-10', 'F', 'Rua da Amizade, 789', '1198765432', 'isabela@email.com'),
+(8, 'Gustavo Pereira', '2004-05-15', 'M', 'Avenida dos Sonhos, 123', '1176543210', 'gustavo@email.com'),
+(9, 'Carolina Oliveira', '2005-02-20', 'F', 'Rua da Alegria, 456', '1187654321', 'carolina@email.com'),
+(10, 'Daniel Silva', '2003-10-05', 'M', 'Avenida Central, 789', '1112345678', 'daniel@email.com'),
+(11, 'Larissa Souza', '2004-12-08', 'F', 'Rua da Felicidade, 123', '1198765432', 'larissa@email.com'),
+(12, 'Bruno Costa', '2005-07-30', 'M', 'Avenida Principal, 456', '1176543210', 'bruno@email.com'),
+(13, 'Camila Rodrigues', '2006-03-22', 'F', 'Rua das Estrelas, 789', '1187654321', 'camila@email.com'),
+(14, 'Rafael Fernandes', '2004-11-18', 'M', 'Avenida dos Sonhos, 123', '1112345678', 'rafael@email.com'),
+(15, 'Letícia Oliveira', '2005-01-05', 'F', 'Rua da Alegria, 456', '1198765432', 'leticia@email.com'),
+(16, 'Fernanda Lima', '2004-02-12', 'F', 'Rua da Esperança, 789', '1145678901', 'fernanda@email.com'),
+(17, 'Vinícius Santos', '2003-07-28', 'M', 'Avenida da Amizade, 123', '1189012345', 'vinicius@email.com'),
+(18, 'Juliana Pereira', '2006-09-01', 'F', 'Rua das Rosas, 789', '1134567890', 'juliana@email.com');
