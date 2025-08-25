@@ -1,12 +1,12 @@
 ---Criação e gerenciamento de dados de uma escola
 
-#Criando o banco de Dados
-
+---Criando o banco de Dados
 CREATE DATABASE ESCOLA;
 
+---Seleção do Banco de dados a ser utilizado
 USE ESCOLA;
 
-#Criando as tabelas
+---Criando as tabelas do Banco de Dados
 
 CREATE TABLE ALUNOS
 (ID_ALUNO INT PRIMARY KEY,
