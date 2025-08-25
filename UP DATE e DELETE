@@ -1,0 +1,23 @@
+---Atualização de dados na tabela Alunos, coluna Nome_Aluno
+UPDATE ALUNOS
+SET NOME_ALUNO = 'João Souza'
+WHERE ID_ALUNO =1;
+
+---Atualização de dados na tabela Alunos, coluna Endereço
+UPDATE ALUNOS
+SET ENDERECO = 'Rua dos Vianas,125'
+WHERE ID_ALUNO =15;
+
+---Atualização de dados na tabela Professores, coluna Nome_Professor
+UPDATE PROFESSORES
+SET NOME_PROFESSOR = 'Ana Viena'
+WHERE ID_PROFESSOR = 1;
+
+--- Exclusão de dados na tabela Alunos (linha)
+DELETE FROM ALUNOS
+WHERE ID_ALUNO = 14;
+
+---Exclusão de dados na tabela Alunos (linha)
+DELETE FROM ALUNOS
+WHERE NOME_ALUNO = 'ANA LIMA';
+
