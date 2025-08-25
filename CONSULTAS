@@ -23,3 +23,7 @@ WHERE GENERO = 'F';
 ---Mostrar os alunos que nasceram antes do ano 2005
 SELECT * FROM ALUNOS
 WHERE DATA_NASCIMENTO < '01-01-2005';
+
+---Mostrar os professores cujo nome começa com a letra “M”
+SELECT * FROM PROFESSORES
+WHERE NOME_PROFESSOR LIKE 'M%';
