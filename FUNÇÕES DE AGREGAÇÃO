@@ -1,3 +1,20 @@
----Quantidade total de linhas
+---Quantidade total de linhas (Função COUNT)
 SELECT COUNT (NOME_ALUNO) AS 'QUANT_ALUNOS'
 FROM ALUNOS;
+
+---Mostre a maior nota da tabela Notas
+SELECT MAX(VALOR_NOTA) AS 'MAIOR NOTA'
+FROM NOTAS;
+
+---Mostre a média das notas
+SELECT AVG(VALOR_NOTA) AS 'MEDIA NOTAS'
+FROM NOTAS;
+
+---Mostre a menor nota da tabela Notas
+SELECT MIN(VALOR_NOTA) AS 'MENOR NOTA'
+FROM NOTAS;
+
+---Mostre a soma total das notas
+SELECT SUM(VALOR_NOTA) AS 'SOMA TOTAL'
+FROM NOTAS;
+
