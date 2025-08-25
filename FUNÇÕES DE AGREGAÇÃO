@@ -1,0 +1,3 @@
+---Quantidade total de linhas
+SELECT COUNT (NOME_ALUNO) AS 'QUANT_ALUNOS'
+FROM ALUNOS;
