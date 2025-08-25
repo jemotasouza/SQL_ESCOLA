@@ -9,3 +9,8 @@ ADD DATA_ADMISSAO DATE;
 ---Alteração de tabela com exclusão de coluna
 ALTER TABLE PROFESSORES
 DROP COLUMN DATA_ADMISSAO;
+
+---Exclusão total de tabelas do Banco de Dados
+DROP TABLE PROFESSORES;
+DROP TABLE ALUNOS;
+DROP TABLE NOTAS;
