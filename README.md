@@ -3,7 +3,7 @@ Treinamento de Comandos em SQL
 
 # 📚 Guia de SQL - Exercícios e Exemplos
 
-Este repositório contém exemplos práticos de **comandos SQL**, organizados em tópicos para facilitar o aprendizado e revisão.
+Este repositório contém um banco de dados fictício de uma escola com exemplos práticos de **comandos SQL**, organizados em tópicos para facilitar o aprendizado e revisão.
 
 ## 📂 Estrutura do Repositório
 
